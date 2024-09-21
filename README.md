@@ -1,7 +1,5 @@
 # Hello, I'm Sri Kalyan Chakravarthi M 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
-
 Welcome to my GitHub profile! I'm a software engineer passionate about **microservice architecture**, **system design**, and **problem-solving**.
 
 ---
