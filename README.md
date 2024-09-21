@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a software engineer passionate about **microse
 
 - **Languages**: C#, Python, Java, JavaScript
 
-![Technologies](https://img.shields.io/badge/Technologies-Kafka%20%7C%20Microservices%20%7C%20REST%20%7C%20GRPC-yellowgreen)
+![Technologies / Frameworks](https://img.shields.io/badge/Technologies-React, jQuery, AJAX, Redis, Apache Kafka, Microservices, GRPC, SOAP, RESTful APIs, NUnit)
 
 - **Technologies / Frameworks**: React, jQuery, AJAX, Redis, Apache Kafka, Microservices, GRPC, SOAP, RESTful APIs, NUnit
 
