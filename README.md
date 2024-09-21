@@ -11,8 +11,16 @@ Welcome to my GitHub profile! I'm a software engineer passionate about **microse
 - 🌱 I’m currently learning: **Kafka (Distributed Messaging Queue), Kubernetes, MongoDB**
 - 🔭 I’m working on: [![Project Badge](https://img.shields.io/badge/Project-YourProject-yellow)](Link to your project)
 - 💬 Ask me about: **Microservices Architecture, System Design, Distributed Systems**
-- 📫 How to reach me: srikalyanmarri999@gmail.com || srikalyanchakravarthim@gmail.com
+- 📫 How to reach me: 
+  <a href="mailto:srikalyanmarri999@gmail.com">srikalyanmarri999@gmail.com</a> || 
+  <a href="mailto:srikalyanchakravarthim@gmail.com">srikalyanchakravarthim@gmail.com</a>
 - ⚡ Fun fact: I love solving algorithmic challenges in my spare time!
+
+## 📄 My Resume
+
+<a href="https://github.com/srikalyan123/srikalyan123/raw/main/Sri%20Kalyan%20Chakravarthi%20Marri%20Resume.pdf">
+  <img src="https://img.shields.io/badge/Resume-Download-blue?style=flat-square&logo=google-drive&logoColor=white" alt="Resume Badge" />
+</a>
 
 ---
 
