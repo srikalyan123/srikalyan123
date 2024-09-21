@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a software engineer passionate about **microse
 - 🌱 I’m currently learning: **Kafka (Distributed Messaging Queue), Kubernetes, MongoDB**
 - 🔭 I’m working on: [![Project Badge](https://img.shields.io/badge/Project-YourProject-yellow)](Link to your project)
 - 💬 Ask me about: **Microservices Architecture, System Design, Distributed Systems**
-- 📫 How to reach me: [![Email Badge](https://img.shields.io/badge/Email-Contact-orange)](mailto:srikalyanmarri999@gmail.com%20%7C%20srikalyanchakravarthim@gmail.com)
+- 📫 How to reach me: srikalyanmarri999@gmail.com || srikalyanchakravarthim@gmail.com
 - ⚡ Fun fact: I love solving algorithmic challenges in my spare time!
 
 ---
@@ -19,14 +19,10 @@ Welcome to my GitHub profile! I'm a software engineer passionate about **microse
 ## 🛠️ Tech Stack
 
 ![Languages](https://img.shields.io/badge/Languages-C%23%20%7C%20Python%20%7C%20Java%20%7C%20JavaScript-blue)
-- **Languages**: C#, Python, Java, JavaScript
 
-![Technologies](https://img.shields.io/badge/Technologies-Kafka%20%7C%20Microservices%20%7C%20REST%20%7C%20GRPC-yellowgreen)
-- **Technologies / Frameworks**: React, jQuery, AJAX, Redis, Apache Kafka, Microservices, GRPC, SOAP, RESTful APIs, NUnit
+![Technologies / Frameworks](https://img.shields.io/badge/React%20%7C%20jQuery%20%7C%20AJAX%20%7C%20Redis%20%7C%20Apache%20Kafka%20%7C%20Microservices%20%7C%20GRPC%20%7C%20SOAP%20%7C%20RESTful%20APIs%20%7C%20NUnit-yellowgreen)
 
-![Databases](https://img.shields.io/badge/Databases-MS--SQL%20%7C%20MongoDB-orange)
-- **Databases**: MS-SQL, MongoDB
----
+![Databases](https://img.shields.io/badge/Databases-MS-SQL%20%7C%20MongoDB-orange)
 
 ## 🚀 Projects
 
