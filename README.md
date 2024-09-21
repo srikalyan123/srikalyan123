@@ -20,9 +20,10 @@ Welcome to my GitHub profile! I'm a software engineer passionate about **microse
 
 ![Languages](https://img.shields.io/badge/Languages-C%23%20%7C%20Python%20%7C%20Java%20%7C%20JavaScript-blue)
 
-![Technologies / Frameworks](https://img.shields.io/badge/React%20%7C%20jQuery%20%7C%20AJAX%20%7C%20Redis%20%7C%20Apache%20Kafka%20%7C%20Microservices%20%7C%20GRPC%20%7C%20SOAP%20%7C%20RESTful%20APIs%20%7C%20NUnit-yellowgreen)
+![Technologies / Frameworks](https://img.shields.io/badge/Technologies-React%20%7C%20jQuery%20%7C%20AJAX%20%7C%20Redis%20%7C%20Apache%20Kafka%20%7C%20Microservices%20%7C%20GRPC%20%7C%20SOAP%20%7C%20RESTful%20APIs%20%7C%20NUnit-yellowgreen)
 
-![Databases](https://img.shields.io/badge/Databases-MS-SQL%20%7C%20MongoDB-orange)
+![Databases](https://img.shields.io/badge/Databases-MS--SQL%20%7C%20MongoDB-orange)
+
 
 ## 🚀 Projects
 
