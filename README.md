@@ -28,9 +28,9 @@ I am currently focused on enhancing my expertise in **Kafka**, **Kubernetes**, a
 ![GitHub stars](https://img.shields.io/github/stars/yourusername/yourproject?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/yourusername/yourproject?style=social)
 
-•	Developed and deployed e-commerce microservices using .NET 8, implementing gRPC and RabbitMQ for efficient inter-service communication.
-•	Integrated Yarp API Gateway for routing and load balancing, improving scalability and performance.
-•	Utilized Docker to containerize microservices and databases, streamlining deployment and scaling.
+- Developed and deployed e-commerce microservices using .NET 8, implementing gRPC and RabbitMQ for efficient inter-service communication.
+- Integrated Yarp API Gateway for routing and load balancing, improving scalability and performance.
+- Utilized Docker to containerize microservices and databases, streamlining deployment and scaling.
 
 
 ### [Wikimedia Project](Link to Wikimedia project repository)
