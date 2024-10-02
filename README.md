@@ -1,13 +1,13 @@
 # Hello, I'm Sri Kalyan Chakravarthi M 👋
 
-Welcome to my GitHub profile! I'm a software engineer passionate about **microservice architecture**, **system design**, and **problem-solving**.
+Welcome to my GitHub profile! I'm a dedicated software engineer with a strong passion for **microservice architecture**, **system design**, and **problem-solving**. I thrive on building robust applications that solve real-world problems and optimize processes.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🌱 I’m currently learning: **Kafka (Distributed Messaging Queue), Kubernetes, MongoDB**
-- 🔭 I’m working on: [![Project Badge](https://img.shields.io/badge/Project-YourProject-yellow)](Link to your project)
+I am currently focused on enhancing my expertise in **Kafka**, **Kubernetes**, and **MongoDB** while working on real-world applications that leverage these technologies. My experience in developing **e-commerce solutions** has deepened my understanding of scalable systems, and I'm actively involved in projects that implement **Kafka** for efficient data streaming and processing. I enjoy tackling algorithmic challenges and applying my knowledge to design innovative solutions that elevate user experiences.
+
 - 💬 Ask me about: **Microservices Architecture, System Design, Distributed Systems**
 - 📫 How to reach me: 
   <a href="mailto:srikalyanmarri999@gmail.com">srikalyanmarri999@gmail.com</a> || 
@@ -22,24 +22,21 @@ Welcome to my GitHub profile! I'm a software engineer passionate about **microse
 
 ---
 
-## 🛠️ Tech Stack
-
-![Languages](https://img.shields.io/badge/Languages-C%23%20%7C%20Python%20%7C%20Java%20%7C%20JavaScript-blue)
-
-![Technologies / Frameworks](https://img.shields.io/badge/Technologies-React%20%7C%20jQuery%20%7C%20AJAX%20%7C%20Redis%20%7C%20Apache%20Kafka%20%7C%20Microservices%20%7C%20GRPC%20%7C%20SOAP%20%7C%20RESTful%20APIs%20%7C%20NUnit-yellowgreen)
-
-![Databases](https://img.shields.io/badge/Databases-MS--SQL%20%7C%20MongoDB-orange)
-
-
 ## 🚀 Projects
 
-### [Wikimedia](Link to project repository)
+### [E-Commerce Platform](Link to your e-commerce project repository)
 ![GitHub stars](https://img.shields.io/github/stars/yourusername/yourproject?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/yourusername/yourproject?style=social)
 
-- Short description of the project.
+- Developed a scalable e-commerce platform utilizing **microservices architecture** and **Kafka** for efficient data streaming.
 - **Technologies used**: Kafka, Microservices, MongoDB
 
+### [Wikimedia Project](Link to Wikimedia project repository)
+![GitHub stars](https://img.shields.io/github/stars/yourusername/yourproject?style=social)
+![GitHub forks](https://img.shields.io/github/forks/yourusername/yourproject?style=social)
+
+- Contributed to the Wikimedia project by implementing **Kafka** for distributed messaging, enhancing data processing and system resilience.
+- **Technologies used**: Kafka, Microservices, MongoDB
 
 ## 🌍 Connect with Me
 
