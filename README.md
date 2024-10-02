@@ -28,15 +28,17 @@ I am currently focused on enhancing my expertise in **Kafka**, **Kubernetes**, a
 ![GitHub stars](https://img.shields.io/github/stars/yourusername/yourproject?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/yourusername/yourproject?style=social)
 
-- Developed a scalable e-commerce platform utilizing **microservices architecture** and **Kafka** for efficient data streaming.
-- **Technologies used**: Kafka, Microservices, MongoDB
+•	Developed and deployed e-commerce microservices using .NET 8, implementing gRPC and RabbitMQ for efficient inter-service communication.
+•	Integrated Yarp API Gateway for routing and load balancing, improving scalability and performance.
+•	Utilized Docker to containerize microservices and databases, streamlining deployment and scaling.
+
 
 ### [Wikimedia Project](Link to Wikimedia project repository)
 ![GitHub stars](https://img.shields.io/github/stars/yourusername/yourproject?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/yourusername/yourproject?style=social)
 
 - Contributed to the Wikimedia project by implementing **Kafka** for distributed messaging, enhancing data processing and system resilience.
-- **Technologies used**: Kafka, Microservices, MongoDB
+- **Technologies used**: Kafka
 
 ## 🌍 Connect with Me
 
